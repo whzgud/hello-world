@@ -1,2 +1,2 @@
 # hello-world
-test
+Taki sobie początek nowego czegoś....
